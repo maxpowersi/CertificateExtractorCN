@@ -1,0 +1,2 @@
+www.example.com 443
+www.domain.com 8433
